@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=cardNum
+comment0.target=Card(int)
+comment1.params=g\ x\ y
+comment1.target=void\ show(java.awt.Graphics,\ int,\ int)
+comment2.params=
+comment2.target=int\ getRank()
+comment3.params=
+comment3.target=int\ getSuit()
+comment4.params=
+comment4.target=boolean\ getFaceup()
+comment5.params=
+comment5.target=void\ flip()
+comment6.params=two
+comment6.target=int\ equals(Card)
+numComments=7
